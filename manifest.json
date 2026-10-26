@@ -1,0 +1,9 @@
+{
+  "catalogVersion" : 1,
+  "publishedAt" : "2026-10-26T20:17:07Z",
+  "rulesPath" : "rules.yar",
+  "rulesSHA256" : "27de0e38d4bcc9af23529ed61dcb5eb933ca15f180ad93939cbe1d5f074c8145",
+  "rulesSignature" : "jpDpTcLoM9hK9spdQubVhVfyiZ6u1b5u3F3+rlRuTLq+pY2lBF91XmSA7SrxcUxlu+hS/4uLd9sTxhmyCdqLAQ==",
+  "schemaVersion" : 1,
+  "summary" : "MacCare starter catalog: EICAR self-test and exact high-confidence macOS indicators"
+}
